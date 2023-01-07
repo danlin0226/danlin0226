@@ -10,11 +10,14 @@ January 2023
 
 - RBC Royal Trust's database - a company wide full-stack database solution
 
-  - Develop aesthetic React web forms in accordance with development standards
+  - Develop aesthetic React web forms in accordance with company development framework
   - Collaborate directly with database engineer
   - Technologies: React, NodeJS, MSSQL, GraphQL
 
-- Movies app
+- Movies app - app to help movie lovers decide what to watch on their subscribed streaming platforms
+  - Select all streaming platforms the user is subscribed to
+  - Aggregates, scores, and ranks user's available movies
+  - Filters for different genres, platforms
 
 ### 🌱 I’m currently learning ...
 
@@ -25,17 +28,4 @@ January 2023
 
 - E-mail: [danlin0226@gmail.com](mailto:danlin0226@)
 - LinkedIn: [www.linkedin.com/danlin0226/](https://www.linkedin.com/in/danlin0226/)
-- Portfolio Site: Coming soon...
-
-<!--
-**danlin0226/danlin0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio Site: coming soon...
