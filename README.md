@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel! 👋
 
 <p align="center">
-I'm a data analyst turned full-stack web developer.
+I'm an experienced data analyst with a passion for web development. I'm always looking for unique ways to solve complex problems and create practical solutions.
 </p>
 
 ### 🔭 I’m currently working on ...
