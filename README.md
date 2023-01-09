@@ -26,5 +26,5 @@ January 2023
 ### 📫 How to reach me...
 
 - E-mail: [danlin0226@gmail.com](mailto:danlin0226@)
-- LinkedIn: [www.linkedin.com/danlin0226/](https://www.linkedin.com/in/danlin0226)
+- LinkedIn: [www.linkedin.com/danlin0226](https://www.linkedin.com/in/danlin0226)
 - Portfolio Site: coming soon...
