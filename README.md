@@ -22,7 +22,6 @@ January 2023
 ### 🌱 I’m currently learning ...
 
 - Typescript
-- NextJS
 
 ### 📫 How to reach me...
 
