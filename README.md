@@ -8,7 +8,7 @@ I'm an experienced data analyst with a passion for web development. I'm always l
 
 January 2023
 
-- RBC Royal Trust's database - a company wide full-stack database solution
+- RBC Royal Trust Database - a company wide full-stack database solution
 
   - Develop aesthetic React web forms in accordance with company development framework
   - Collaborate directly with database engineer
@@ -27,5 +27,5 @@ January 2023
 ### 📫 How to reach me...
 
 - E-mail: [danlin0226@gmail.com](mailto:danlin0226@)
-- LinkedIn: [www.linkedin.com/danlin0226/](https://www.linkedin.com/in/danlin0226/)
+- LinkedIn: [www.linkedin.com/danlin0226/](https://www.linkedin.com/in/danlin0226)
 - Portfolio Site: coming soon...
