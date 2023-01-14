@@ -8,9 +8,9 @@ I'm an experienced data analyst with a passion for web development. I'm always l
 
 January 2023
 
-- RBC Royal Trust Database - a company wide full-stack database solution
+- RBC Royal Trust Database - a company wide full-stack database solution (no preview due to company policy)
 
-  - Develop aesthetic React web forms in accordance with company development framework
+  - Create aesthetic React web by following existing development framework
   - Collaborate directly with database engineer
   - Technologies: React, NodeJS, MSSQL, GraphQL
 
