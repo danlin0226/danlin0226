@@ -8,19 +8,20 @@ I'm an experienced data analyst with a passion for web development. I'm always l
 
 January 2023
 
-- RBC Royal Trust Database - a company wide full-stack database solution (no preview due to company policy)
+- RBC Royal Trust Database - a company wide full-stack database solution (no preview available due to company policy)
 
-  - Create aesthetic React web by following existing development framework
+  - Create React web forms by following existing development framework
   - Collaborate directly with database engineer
   - Technologies: React, NodeJS, MSSQL, GraphQL
 
-- Movies app - app to help movie lovers decide what to watch on their subscribed streaming platforms
+<!-- - Movies app - app to help movie lovers decide what to watch on their subscribed streaming platforms
   - Select all streaming platforms the user is subscribed to
   - Aggregates, scores, and ranks user's available movies
-  - Filters for different genres, platforms
+  - Filters for different genres, platforms -->
 
 ### 🌱 I’m currently learning ...
 
+- Vue.JS
 - Typescript
 
 ### 📫 How to reach me...
