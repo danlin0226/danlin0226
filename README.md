@@ -22,7 +22,7 @@ January 2023
 ### 🌱 I’m currently learning ...
 
 - Vue.JS
-- Typescript
+<!-- - Typescript -->
 
 ### 📫 How to reach me...
 
