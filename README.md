@@ -6,13 +6,14 @@ I'm an experienced data analyst with a passion for web development. I'm always l
 
 ### 🔭 I’m currently working on ...
 
-January 2023
+March 2023
 
-- RBC Royal Trust Database - a company wide full-stack database solution (no preview available due to company policy)
+- Front-end development for RBC using agile methodology
+  <!-- - RBC Royal Trust Database - a company wide full-stack database solution (no preview available due to company policy) -->
 
-  - Create React web forms by following existing development framework
-  - Collaborate directly with database engineer
-  - Technologies: React, NodeJS, MSSQL, GraphQL
+    <!-- - Create React web forms by following existing development framework
+    - Collaborate directly with database engineer
+    - Technologies: React, NodeJS, MSSQL, GraphQL -->
 
 <!-- - Movies app - app to help movie lovers decide what to watch on their subscribed streaming platforms
   - Select all streaming platforms the user is subscribed to
@@ -28,4 +29,4 @@ January 2023
 
 - E-mail: [danlin0226@gmail.com](mailto:danlin0226@)
 - LinkedIn: [www.linkedin.com/danlin0226](https://www.linkedin.com/in/danlin0226)
-- Portfolio Site: coming soon...
+<!-- - Portfolio Site: coming soon... -->
