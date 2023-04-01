@@ -8,7 +8,7 @@ I'm an experienced data analyst with a passion for web development. I'm always l
 
 March 2023
 
-- Front-end development for RBC using agile methodology
+- Front-end developer for RBC agile development team
   <!-- - RBC Royal Trust Database - a company wide full-stack database solution (no preview available due to company policy) -->
 
     <!-- - Create React web forms by following existing development framework
